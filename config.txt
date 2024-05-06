@@ -11,7 +11,7 @@
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "e7e1aa4c98e64ffb9858514d75fae9f1",
+"weather_key": "e5fdc04a07c24bbd8a882c9652e77f79",
 # 所在省份
 "province": "湖南",
 # 所在城市
