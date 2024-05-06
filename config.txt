@@ -10,6 +10,8 @@
 "user": ["ouPlI68w17hXfyoTVgCRpawCjK28"],
 
 # 信息配置
+# 和风天气apikey
+"weather_key": "e7e1aa4c98e64ffb9858514d75fae9f1",
 # 所在省份
 "province": "湖南",
 # 所在城市
